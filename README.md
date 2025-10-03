@@ -32,7 +32,3 @@ The dataset contains applicant information such as gender, marital status, educa
 
 ## Demo
 Link to deployed app: [https://huggingface.co/spaces/Rosheeat/demo]  
-
-
-   git clone https://github.com/your-username/loan-prediction.git
-   cd loan-prediction
